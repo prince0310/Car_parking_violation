@@ -36,10 +36,9 @@ A real-time parking violation detection system using YOLO object detection and O
    pip install -r requirements.txt
    ```
 
-3. **Download YOLO model** (if not already present)
+3. **Download model** (if not already present)
    ```bash
-   # The script will automatically download yolov8n.pt on first run
-   # Or download manually from: https://github.com/ultralytics/ultralytics
+   https://drive.google.com/file/d/1CMUodxfbMnkOicKXvYpH83rG_1MEr7pI/view?usp=drive_link
    ```
 
 ### Basic Usage
@@ -238,3 +237,4 @@ This project is open source. Please ensure you have proper licenses for any vide
 ---
 
 **Happy Parking Monitoring! 🚗🚫**
+
