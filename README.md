@@ -226,7 +226,7 @@ This project is open source. Please ensure you have proper licenses for any vide
 
 **Prince Kumar**
 - Email: princekumar26600@gmail.com
-- GitHub: [Your GitHub Profile]
+- GitHub: [[GitHub Profile](https://github.com/prince0310)]
 
 ## 🙏 Acknowledgments
 
@@ -237,4 +237,5 @@ This project is open source. Please ensure you have proper licenses for any vide
 ---
 
 **Happy Parking Monitoring! 🚗🚫**
+
 
